@@ -1,2 +1,2 @@
-#1/bin/bash
-10 mirror permissions
+#!/bin/bash
+chmod 753 hello

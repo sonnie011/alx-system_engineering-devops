@@ -1,2 +1,2 @@
 #!/bin/bash
-12-directories_permissions
+mkdir -m 751 dir_holberton
